@@ -1,0 +1,1285 @@
+[INFO] 2026-10-29 18:41:12,084 google_drive | Created Drive folder test_cases
+[INFO] 2026-10-29 18:41:12,085 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,085 google_drive | Uploaded 4 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,086 google_drive | Created Drive folder test_cases
+[INFO] 2026-10-29 18:41:12,087 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,087 google_drive | Uploaded 6 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,087 google_drive | Created Drive folder 7.uploading
+[ERROR] 2026-10-29 18:41:12,088 google_drive | Upload to test_cases/7.uploading failed; previous files left untouched
+[INFO] 2026-10-29 18:41:12,088 google_drive | Moved Drive item test_cases/7.uploading to trash
+[INFO] 2026-10-29 18:41:12,089 google_drive | Moved Drive item test_cases/7.uploading to trash
+[INFO] 2026-10-29 18:41:12,089 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,090 google_drive | Uploaded 2 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,090 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,091 google_drive | Uploaded 2 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,091 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,091 google_drive | Uploaded 2 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,091 google_drive | Moved Drive item test_cases/7 (previous) to trash
+[INFO] 2026-10-29 18:41:12,092 google_drive | Created Drive folder test_cases
+[INFO] 2026-10-29 18:41:12,092 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,092 google_drive | Uploaded 2 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,093 google_drive | Created Drive folder test_cases
+[INFO] 2026-10-29 18:41:12,093 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,093 google_drive | Uploaded 40 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,094 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,094 google_drive | Uploaded 24 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,094 google_drive | Moved Drive item test_cases/7 (previous) to trash
+[INFO] 2026-10-29 18:41:12,095 google_drive | Created Drive folder test_cases
+[INFO] 2026-10-29 18:41:12,097 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,097 google_drive | Uploaded 4 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,097 google_drive | Created Drive folder 7.uploading
+[INFO] 2026-10-29 18:41:12,098 google_drive | Uploaded 4 files to test_cases/7.uploading
+[INFO] 2026-10-29 18:41:12,098 google_drive | Moved Drive item test_cases/7 (previous) to trash
+[INFO] 2026-10-29 18:41:12,099 polygon_api | Starting migrate_to_storage for problem 618555
+[INFO] 2026-10-29 18:41:12,099 polygon_api | Retrieved test cases from Redis for storage migration (saved Polygon API call)
+[INFO] 2026-10-29 18:41:12,099 polygon_api | Retrieved 3 test cases for storage migration
+[INFO] 2026-10-29 18:41:12,100 polygon_api | Using problem_id_for_naming: 42
+[WARNING] 2026-10-29 18:41:12,100 polygon_api | Skipping test case #2: missing input or output. input: '', output: '0\n'
+[INFO] 2026-10-29 18:41:12,100 polygon_api | Starting custom checker processing for problem 618555
+[INFO] 2026-10-29 18:41:12,100 polygon_api | Completed custom checker processing for problem 618555
+[INFO] 2026-10-29 18:41:12,100 polygon_api | Uploaded 2 test cases to cloud storage
+[INFO] 2026-10-29 18:41:12,100 polygon_api | Completed migrate_to_storage for problem 618555
+[INFO] 2026-10-29 18:41:12,101 polygon_api | Starting migrate_to_storage for problem 618555
+[INFO] 2026-10-29 18:41:12,101 polygon_api | Retrieved test cases from Redis for storage migration (saved Polygon API call)
+[INFO] 2026-10-29 18:41:12,102 polygon_api | Retrieved 1 test cases for storage migration
+[INFO] 2026-10-29 18:41:12,102 polygon_api | Using problem_id_for_naming: 42
+[INFO] 2026-10-29 18:41:12,102 polygon_api | Starting custom checker processing for problem 618555
+[INFO] 2026-10-29 18:41:12,102 polygon_api | Completed custom checker processing for problem 618555
+[INFO] 2026-10-29 18:41:12,103 polygon_api | Uploaded 1 test cases to cloud storage
+[INFO] 2026-10-29 18:41:12,103 polygon_api | Completed migrate_to_storage for problem 618555
+[INFO] 2026-10-29 18:52:12,912 views | Entered index view with method=GET
+[INFO] 2026-10-29 18:52:12,929 views | Exiting index view
+[INFO] 2026-10-29 18:54:41,536 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 18:54:41,546 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 18:54:41,547 views | All POST data: {'csrfmiddlewaretoken': ['kmNLmdCQIzFxYPpGW2iFx16gRh7OQ0c13hRbMVfpsQVVkYvGWjk7n4iCJVTzew40'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 18:54:41,547 views | Processing polygon_id=618555
+[INFO] 2026-10-29 18:55:58,494 google_oauth | Google Drive authorized; credentials saved to the configured token file.
+[INFO] 2026-10-29 18:56:05,323 views | Entered index view with method=GET
+[INFO] 2026-10-29 18:56:05,327 views | Exiting index view
+[INFO] 2026-10-29 18:56:14,954 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 18:56:14,956 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 18:56:14,956 views | All POST data: {'csrfmiddlewaretoken': ['8E8nUJMJrc8kbmV1FNc0iRGbQ1m284RMRzcNkrpibtoIxv11F4es8USxIF8NwAJL'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 18:56:14,956 views | Processing polygon_id=618555
+[INFO] 2026-10-29 19:15:25,024 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:15:25,028 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 19:15:25,028 views | All POST data: {'problem_id': ['618555']}
+[INFO] 2026-10-29 19:15:25,028 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:15:25,031 views | db_problem=None
+[INFO] 2026-10-29 19:15:25,032 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:15:28,687 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 19:15:28,687 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:15:28,687 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 19:15:28,690 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:15:29,033 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:15:38,467 polygon_api | Successfully read problem.html content, length: 2579 characters
+[DEBUG] 2026-10-29 19:15:38,481 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpyeaati4a
+[DEBUG] 2026-10-29 19:15:38,482 views | Downloaded and extracted problem_html_content, length: 2579
+[INFO] 2026-10-29 19:15:38,482 views | Entered parse_problem_html with content length=2579
+[DEBUG] 2026-10-29 19:15:38,489 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 19:15:38,490 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 19:15:38,490 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 19:15:38,490 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 19:15:38,868 polygon_api | Found 4 test cases to process
+[INFO] 2026-10-29 19:15:38,868 polygon_api | Processing test case 1/4 (index: 1)
+[DEBUG] 2026-10-29 19:15:38,868 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 19:15:39,318 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 19:15:39,753 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 19:15:39,753 polygon_api | Processing test case 2/4 (index: 2)
+[DEBUG] 2026-10-29 19:15:39,753 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 19:15:40,613 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 19:15:41,030 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 19:15:41,030 polygon_api | Processing test case 3/4 (index: 3)
+[DEBUG] 2026-10-29 19:15:41,030 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 19:15:41,480 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 19:15:41,876 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 19:15:41,877 polygon_api | Processing test case 4/4 (index: 4)
+[DEBUG] 2026-10-29 19:15:41,877 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 19:15:42,295 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 19:15:42,697 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 19:15:42,697 polygon_api | Completed fetching all 4 test cases for problem 618555
+[DEBUG] 2026-10-29 19:15:42,697 views | Fetched all test cases.
+[INFO] 2026-10-29 19:15:42,741 polygon_api | Stored 4 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 19:15:43,079 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 19:15:43,079 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:15:43,420 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:15:43,420 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:15:43,420 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 19:15:43,797 views | test_case_count=4
+[INFO] 2026-10-29 19:15:43,798 views | Exiting index view
+[INFO] 2026-10-29 19:15:56,358 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:15:56,360 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 19:15:56,361 views | All POST data: {'problem_id': ['618555']}
+[INFO] 2026-10-29 19:15:56,361 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:15:56,364 views | db_problem=None
+[INFO] 2026-10-29 19:15:56,364 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:15:56,733 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 19:15:56,733 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:15:56,733 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 19:15:56,736 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:15:57,098 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:16:04,726 polygon_api | Successfully read problem.html content, length: 2579 characters
+[DEBUG] 2026-10-29 19:16:04,740 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpd_69yqpv
+[DEBUG] 2026-10-29 19:16:04,741 views | Downloaded and extracted problem_html_content, length: 2579
+[INFO] 2026-10-29 19:16:04,741 views | Entered parse_problem_html with content length=2579
+[DEBUG] 2026-10-29 19:16:04,742 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 19:16:04,742 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 19:16:04,742 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 19:16:04,742 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 19:16:05,924 polygon_api | Found 4 test cases to process
+[INFO] 2026-10-29 19:16:05,925 polygon_api | Processing test case 1/4 (index: 1)
+[DEBUG] 2026-10-29 19:16:05,925 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 19:16:06,372 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 19:16:06,801 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 19:16:06,801 polygon_api | Processing test case 2/4 (index: 2)
+[DEBUG] 2026-10-29 19:16:06,801 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 19:16:07,199 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 19:16:07,599 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 19:16:07,599 polygon_api | Processing test case 3/4 (index: 3)
+[DEBUG] 2026-10-29 19:16:07,599 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 19:16:08,007 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 19:16:08,419 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 19:16:08,419 polygon_api | Processing test case 4/4 (index: 4)
+[DEBUG] 2026-10-29 19:16:08,419 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 19:16:08,816 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 19:16:09,219 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 19:16:09,219 polygon_api | Completed fetching all 4 test cases for problem 618555
+[DEBUG] 2026-10-29 19:16:09,219 views | Fetched all test cases.
+[INFO] 2026-10-29 19:16:09,230 polygon_api | Stored 4 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 19:16:09,570 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 19:16:09,570 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:16:09,920 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:16:09,920 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:16:09,920 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 19:16:10,262 views | test_case_count=4
+[INFO] 2026-10-29 19:16:10,262 views | Exiting index view
+[INFO] 2026-10-29 19:17:38,029 views | Entered index view with method=GET
+[INFO] 2026-10-29 19:17:38,111 views | Exiting index view
+[INFO] 2026-10-29 19:17:49,161 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:17:49,166 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 19:17:49,166 views | All POST data: {'csrfmiddlewaretoken': ['PQmBnNKx4g8l1a7sSLYlvFAqpikSexGoyLq1Nvn6OxoJnjdsS20NlIMMhW6DC3yn'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 19:17:49,167 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:17:49,177 views | db_problem=None
+[INFO] 2026-10-29 19:17:49,180 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:17:49,636 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 19:17:49,637 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:17:49,637 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 19:17:49,643 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:17:50,428 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:17:56,366 polygon_api | Successfully read problem.html content, length: 2579 characters
+[DEBUG] 2026-10-29 19:17:56,389 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpm434alhz
+[DEBUG] 2026-10-29 19:17:56,390 views | Downloaded and extracted problem_html_content, length: 2579
+[INFO] 2026-10-29 19:17:56,390 views | Entered parse_problem_html with content length=2579
+[DEBUG] 2026-10-29 19:17:56,423 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 19:17:56,423 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 19:17:56,424 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 19:17:56,425 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 19:17:56,779 polygon_api | Found 4 test cases to process
+[INFO] 2026-10-29 19:17:56,779 polygon_api | Processing test case 1/4 (index: 1)
+[DEBUG] 2026-10-29 19:17:56,779 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 19:17:58,624 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 19:17:59,469 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 19:17:59,469 polygon_api | Processing test case 2/4 (index: 2)
+[DEBUG] 2026-10-29 19:17:59,469 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 19:17:59,890 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 19:18:00,314 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 19:18:00,315 polygon_api | Processing test case 3/4 (index: 3)
+[DEBUG] 2026-10-29 19:18:00,315 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 19:18:00,736 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 19:18:01,169 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 19:18:01,169 polygon_api | Processing test case 4/4 (index: 4)
+[DEBUG] 2026-10-29 19:18:01,169 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 19:18:01,601 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 19:18:02,010 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 19:18:02,010 polygon_api | Completed fetching all 4 test cases for problem 618555
+[DEBUG] 2026-10-29 19:18:02,010 views | Fetched all test cases.
+[INFO] 2026-10-29 19:18:02,045 polygon_api | Stored 4 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 19:18:02,396 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 19:18:02,397 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:18:02,736 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:18:02,737 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:18:02,737 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 19:18:03,083 views | test_case_count=4
+[INFO] 2026-10-29 19:18:03,085 views | Exiting index view
+[INFO] 2026-10-29 19:23:35,492 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:23:35,499 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=['math', 'implementation'], new_tag=
+[DEBUG] 2026-10-29 19:23:35,499 views | All POST data: {'csrfmiddlewaretoken': ['DZreEySPB0w21zL6G2CqgNv9vcm4MFWMmUvE4gvolhMqnIR6GjES6QHvnQ8PabOL'], 'problem_id': ['618555'], 'migrate_to_db': ['1'], 'difficulty': ['easy'], 'tags': ['math', 'implementation']}
+[INFO] 2026-10-29 19:23:35,499 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:23:35,504 views | db_problem=None
+[INFO] 2026-10-29 19:23:35,505 polygon_api | Fetching problem info for 618555
+[ERROR] 2026-10-29 19:23:46,611 views | Exception in index view: HTTP Request Error: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000028A602291D0>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Black Man\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connection.py", line 704, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000028A602291D0>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000028A602291D0>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 98, in _make_request
+    response = requests.post(f"{self.API_URL}{method_name}", data=post_params)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000028A602291D0>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\views.py", line 232, in index
+    info = api.get_problem_info(polygon_id)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 256, in get_problem_info
+    info = self._make_request('problem.info', {'problemId': problem_id})
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 116, in _make_request
+    raise Exception(f"HTTP Request Error: {e}")
+Exception: HTTP Request Error: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000028A602291D0>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+[INFO] 2026-10-29 19:23:46,739 polygon_api | Cleared 5 test case keys from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:23:46,740 views | Exiting index view
+[INFO] 2026-10-29 19:24:54,343 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:24:54,348 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 19:24:54,348 views | All POST data: {'csrfmiddlewaretoken': ['nZdQVpTI4gJS8zB63WAuj1NGln3whdNJ6Uhgl7whOxZguIH63dCW94Z2d1PhFJFI'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 19:24:54,348 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:24:54,352 views | db_problem=None
+[INFO] 2026-10-29 19:24:54,353 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:24:54,935 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 19:24:54,935 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:24:54,935 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 19:24:54,938 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:24:55,329 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:24:59,418 polygon_api | Successfully read problem.html content, length: 2579 characters
+[DEBUG] 2026-10-29 19:24:59,437 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmp9zgy3n1v
+[DEBUG] 2026-10-29 19:24:59,439 views | Downloaded and extracted problem_html_content, length: 2579
+[INFO] 2026-10-29 19:24:59,439 views | Entered parse_problem_html with content length=2579
+[DEBUG] 2026-10-29 19:24:59,442 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 19:24:59,442 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 19:24:59,443 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 19:24:59,443 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 19:25:00,048 polygon_api | Found 4 test cases to process
+[INFO] 2026-10-29 19:25:00,048 polygon_api | Processing test case 1/4 (index: 1)
+[DEBUG] 2026-10-29 19:25:00,048 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 19:25:01,211 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 19:25:02,176 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 19:25:02,176 polygon_api | Processing test case 2/4 (index: 2)
+[DEBUG] 2026-10-29 19:25:02,177 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 19:25:03,409 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 19:25:03,816 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 19:25:03,816 polygon_api | Processing test case 3/4 (index: 3)
+[DEBUG] 2026-10-29 19:25:03,816 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 19:25:04,584 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 19:25:05,622 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 19:25:05,623 polygon_api | Processing test case 4/4 (index: 4)
+[DEBUG] 2026-10-29 19:25:05,623 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 19:25:06,104 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 19:25:06,519 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 19:25:06,519 polygon_api | Completed fetching all 4 test cases for problem 618555
+[DEBUG] 2026-10-29 19:25:06,519 views | Fetched all test cases.
+[INFO] 2026-10-29 19:25:06,533 polygon_api | Stored 4 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 19:25:06,876 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 19:25:06,876 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:25:07,224 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:25:07,225 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:25:07,225 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 19:25:07,562 views | test_case_count=4
+[INFO] 2026-10-29 19:25:07,563 views | Exiting index view
+[INFO] 2026-10-29 19:25:43,848 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:25:43,855 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=['math', 'implementation'], new_tag=
+[DEBUG] 2026-10-29 19:25:43,856 views | All POST data: {'csrfmiddlewaretoken': ['KWW1EZ2Bl9kXe6z5ANE9tbMQM0GQeoQvtR0r4HFa5qAlAfF5A4GBjeYcEEsBCUIu'], 'problem_id': ['618555'], 'migrate_to_db': ['1'], 'difficulty': ['easy'], 'tags': ['math', 'implementation']}
+[INFO] 2026-10-29 19:25:43,856 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:25:43,862 views | db_problem=None
+[INFO] 2026-10-29 19:25:43,863 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:25:44,226 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 19:25:44,226 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:25:44,226 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 19:25:44,230 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:25:44,599 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:25:46,634 polygon_api | Successfully read problem.html content, length: 2579 characters
+[DEBUG] 2026-10-29 19:25:46,648 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpjl_v9jzz
+[DEBUG] 2026-10-29 19:25:46,649 views | Downloaded and extracted problem_html_content, length: 2579
+[INFO] 2026-10-29 19:25:46,649 views | Entered parse_problem_html with content length=2579
+[DEBUG] 2026-10-29 19:25:46,650 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 19:25:46,650 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 19:25:46,650 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 19:25:46,664 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:25:46,664 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 19:25:47,822 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 19:25:47,823 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:25:48,193 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:25:48,194 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:25:48,194 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 19:25:48,546 views | test_case_count=4
+[INFO] 2026-10-29 19:25:48,546 views | Starting DB migration for polygon_id=618555
+[INFO] 2026-10-29 19:25:48,550 views | Creating new Problem in DB
+[INFO] 2026-10-29 19:25:48,585 views | Processing tags for problem
+[DEBUG] 2026-10-29 19:25:48,585 views | Selected tags before processing: ['math', 'implementation']
+[DEBUG] 2026-10-29 19:25:48,585 views | New tag before processing: 
+[DEBUG] 2026-10-29 19:25:48,608 views | Cleared existing tags for problem 1
+[DEBUG] 2026-10-29 19:25:48,608 views | Processing tag: math
+[INFO] 2026-10-29 19:25:48,639 views | Created new tag: math
+[DEBUG] 2026-10-29 19:25:48,639 views | Processing tag: implementation
+[INFO] 2026-10-29 19:25:48,647 views | Created new tag: implementation
+[DEBUG] 2026-10-29 19:25:48,653 views | Final tags after processing: ['math', 'implementation']
+[INFO] 2026-10-29 19:25:48,667 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:25:48,667 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 19:25:48,667 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 19:25:48,667 views | sample_tests: [{'index': 1, 'input': '1 2\r\n', 'output': '3\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '5 7\r\n', 'output': '12\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 19:25:48,674 views | Sample test idx=0, input_data=1 2, output_data=3
+[DEBUG] 2026-10-29 19:25:48,680 views | Sample test idx=1, input_data=5 7, output_data=12
+[DEBUG] 2026-10-29 19:25:49,027 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 19:25:49,792 views | Exiting index view
+[INFO] 2026-10-29 19:26:05,493 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:26:05,497 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=1, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 19:26:05,497 views | All POST data: {'csrfmiddlewaretoken': ['Ew1z9x5GlxCZcYI6DkqcDqyRbiaPGQjFnr5ZzfIf5OSny7O6DBsEttKd3WWA4mbE'], 'problem_id': ['618555'], 'migrate_test_cases_to_db': ['1']}
+[INFO] 2026-10-29 19:26:05,498 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:26:05,504 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 19:26:06,554 views | Updated working copy: None
+[DEBUG] 2026-10-29 19:26:06,905 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 19:26:07,328 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:26:07,686 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 19:26:07,686 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:26:07,686 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 19:26:07,687 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:26:08,052 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:26:10,158 polygon_api | Successfully read problem.html content, length: 2579 characters
+[DEBUG] 2026-10-29 19:26:10,186 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmp2lo915f0
+[DEBUG] 2026-10-29 19:26:10,187 views | Downloaded and extracted problem_html_content, length: 2579
+[INFO] 2026-10-29 19:26:10,187 views | Entered parse_problem_html with content length=2579
+[DEBUG] 2026-10-29 19:26:10,188 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 19:26:10,189 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 19:26:10,189 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 19:26:10,206 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:26:10,207 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 19:26:10,566 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 19:26:10,567 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:26:10,915 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:10,916 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:10,916 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 19:26:11,265 views | test_case_count=4
+[INFO] 2026-10-29 19:26:11,276 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:26:11,276 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 19:26:11,277 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 19:26:11,282 views | Test case idx=0, input_data=1 2, output_data=3, is_sample=True, description=
+[DEBUG] 2026-10-29 19:26:11,282 views | Test case idx=0, truncated_input_length=3, truncated_output_length=1
+[DEBUG] 2026-10-29 19:26:11,291 views | Test case idx=1, input_data=5 7, output_data=12, is_sample=True, description=
+[DEBUG] 2026-10-29 19:26:11,291 views | Test case idx=1, truncated_input_length=3, truncated_output_length=2
+[DEBUG] 2026-10-29 19:26:11,293 views | Test case idx=2, input_data=-3 -3, output_data=-6, is_sample=False, description=
+[DEBUG] 2026-10-29 19:26:11,294 views | Test case idx=2, truncated_input_length=5, truncated_output_length=2
+[DEBUG] 2026-10-29 19:26:11,296 views | Test case idx=3, input_data=0 14, output_data=14, is_sample=False, description=
+[DEBUG] 2026-10-29 19:26:11,297 views | Test case idx=3, truncated_input_length=4, truncated_output_length=2
+[INFO] 2026-10-29 19:26:11,304 views | Exiting index view
+[INFO] 2026-10-29 19:26:21,729 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 19:26:21,733 views | POST data: polygon_id=618555, migrate_to_storage=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 19:26:21,733 views | All POST data: {'csrfmiddlewaretoken': ['lzuE9kwDrZygJNtbYQ8xczAjy44Z0d5H4uy4z29cbgOE5WzbY7aZ2CMFqIQKoJXG'], 'problem_id': ['618555'], 'migrate_to_storage': ['1']}
+[INFO] 2026-10-29 19:26:21,733 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 19:26:21,737 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 19:26:22,817 views | Updated working copy: None
+[DEBUG] 2026-10-29 19:26:23,160 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 19:26:24,344 views | Storage migration triggered for polygon_id=618555
+[INFO] 2026-10-29 19:26:24,351 views | Problem found in DB, proceeding with storage migration
+[INFO] 2026-10-29 19:26:24,352 views | Storage migration params: problem_id=1, provider=gdrive
+[INFO] 2026-10-29 19:26:24,352 polygon_api | pattern oj_dev_with_redis_storage_test_cases_1*
+[INFO] 2026-10-29 19:26:24,403 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:26:24,762 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:24,763 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:24,763 views | Calling migrate_to_storage
+[INFO] 2026-10-29 19:26:25,377 polygon_api | Starting migrate_to_storage for problem 618555
+[INFO] 2026-10-29 19:26:25,395 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:26:25,395 polygon_api | Retrieved test cases from Redis for storage migration (saved Polygon API call)
+[INFO] 2026-10-29 19:26:25,395 polygon_api | Retrieved 4 test cases for storage migration
+[INFO] 2026-10-29 19:26:25,395 polygon_api | Using problem_id_for_naming: 1
+[INFO] 2026-10-29 19:26:25,396 polygon_api | Starting custom checker processing for problem 618555
+[INFO] 2026-10-29 19:26:25,397 polygon_api | Processing custom checker for problem 618555
+[INFO] 2026-10-29 19:26:25,397 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:26:25,793 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:25,793 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:25,793 polygon_api | No custom checker found for problem 618555
+[INFO] 2026-10-29 19:26:25,793 polygon_api | Completed custom checker processing for problem 618555
+[INFO] 2026-10-29 19:26:28,012 google_drive | Created Drive folder test_cases
+[INFO] 2026-10-29 19:26:29,682 google_drive | Created Drive folder 1.uploading
+[INFO] 2026-10-29 19:26:43,539 google_drive | Uploaded 8 files to test_cases/1.uploading
+[INFO] 2026-10-29 19:26:44,298 polygon_api | Uploaded 4 test cases to Google Drive
+[INFO] 2026-10-29 19:26:44,298 polygon_api | Completed migrate_to_storage for problem 618555
+[INFO] 2026-10-29 19:26:44,298 views | Storage migration completed successfully
+[INFO] 2026-10-29 19:26:44,299 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:26:45,080 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 19:26:45,080 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:26:45,080 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 19:26:45,084 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 19:26:45,442 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 19:26:47,498 polygon_api | Successfully read problem.html content, length: 2579 characters
+[DEBUG] 2026-10-29 19:26:47,518 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpmu1v96py
+[DEBUG] 2026-10-29 19:26:47,519 views | Downloaded and extracted problem_html_content, length: 2579
+[INFO] 2026-10-29 19:26:47,519 views | Entered parse_problem_html with content length=2579
+[DEBUG] 2026-10-29 19:26:47,521 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 19:26:47,521 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 19:26:47,522 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 19:26:47,532 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:26:47,532 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 19:26:47,894 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 19:26:47,894 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 19:26:48,271 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:48,271 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 19:26:48,271 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 19:26:48,611 views | test_case_count=4
+[INFO] 2026-10-29 19:26:48,615 views | Exiting index view
+[INFO] 2026-10-29 19:27:43,578 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 19:27:43,965 polygon_api | Found 4 test cases to process
+[INFO] 2026-10-29 19:27:43,965 polygon_api | Processing test case 1/4 (index: 1)
+[DEBUG] 2026-10-29 19:27:43,965 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 19:27:44,429 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 19:27:44,869 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 19:27:44,869 polygon_api | Processing test case 2/4 (index: 2)
+[DEBUG] 2026-10-29 19:27:44,869 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 19:27:45,268 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 19:27:45,693 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 19:27:45,693 polygon_api | Processing test case 3/4 (index: 3)
+[DEBUG] 2026-10-29 19:27:45,693 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 19:27:46,115 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 19:27:46,544 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 19:27:46,544 polygon_api | Processing test case 4/4 (index: 4)
+[DEBUG] 2026-10-29 19:27:46,545 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 19:27:46,983 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 19:27:47,400 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 19:27:47,400 polygon_api | Completed fetching all 4 test cases for problem 618555
+[INFO] 2026-10-29 19:30:54,826 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 19:30:55,489 polygon_api | Found 4 test cases to process
+[INFO] 2026-10-29 19:30:55,490 polygon_api | Processing test case 1/4 (index: 1)
+[DEBUG] 2026-10-29 19:30:55,490 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 19:30:55,913 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 19:30:56,894 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 19:30:56,894 polygon_api | Processing test case 2/4 (index: 2)
+[DEBUG] 2026-10-29 19:30:56,894 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 19:30:57,298 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 19:30:57,720 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 19:30:57,720 polygon_api | Processing test case 3/4 (index: 3)
+[DEBUG] 2026-10-29 19:30:57,720 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 19:30:58,645 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 19:30:59,035 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 19:30:59,036 polygon_api | Processing test case 4/4 (index: 4)
+[DEBUG] 2026-10-29 19:30:59,036 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 19:30:59,474 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 19:30:59,911 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 19:30:59,911 polygon_api | Completed fetching all 4 test cases for problem 618555
+[INFO] 2026-10-29 19:34:58,999 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:40:02,996 polygon_api | Retrieved 4 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:40:17,414 polygon_api | Cleared 5 test case keys from Redis for polygon_id 618555
+[INFO] 2026-10-29 19:40:17,419 polygon_api | No test cases found in Redis for polygon_id 618555
+[INFO] 2026-10-29 20:00:54,473 polygon_api | No test cases found in Redis for polygon_id 618555
+[INFO] 2026-10-29 20:01:12,461 polygon_api | No test cases found in Redis for polygon_id 618555
+[INFO] 2026-10-29 20:01:13,527 google_drive | Moved Drive item test_cases/1 to trash
+[INFO] 2026-10-29 20:01:13,535 polygon_api | Cleared 0 test case keys from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:01:16,094 polygon_api | No test cases found in Redis for polygon_id 618555
+[INFO] 2026-10-29 20:09:44,426 views | Entered index view with method=GET
+[INFO] 2026-10-29 20:09:44,469 views | Exiting index view
+[INFO] 2026-10-29 20:10:42,190 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:10:42,197 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:10:42,198 views | All POST data: {'csrfmiddlewaretoken': ['2DbixQdefH4DTxzgJnWYblRZ4dsOEz9LLyfIXyQNZYk1fGFgJEYq1o3lWRez251K'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 20:10:42,198 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:10:42,228 views | db_problem=None
+[INFO] 2026-10-29 20:10:42,228 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:10:42,966 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:10:42,966 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:10:42,967 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:10:42,976 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:10:43,339 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:10:47,160 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:10:47,188 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpr0ce8mta
+[DEBUG] 2026-10-29 20:10:47,190 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:10:47,190 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:10:47,203 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:10:47,203 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:10:47,204 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:10:47,206 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 20:10:47,562 polygon_api | Found 13 test cases to process
+[INFO] 2026-10-29 20:10:47,562 polygon_api | Processing test case 1/13 (index: 1)
+[DEBUG] 2026-10-29 20:10:47,562 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 20:10:47,992 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 20:10:48,429 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:10:48,430 polygon_api | Processing test case 2/13 (index: 2)
+[DEBUG] 2026-10-29 20:10:48,430 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 20:10:48,826 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 20:10:49,255 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 20:10:49,255 polygon_api | Processing test case 3/13 (index: 3)
+[DEBUG] 2026-10-29 20:10:49,256 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 20:10:49,686 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 20:10:50,541 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 20:10:50,542 polygon_api | Processing test case 4/13 (index: 4)
+[DEBUG] 2026-10-29 20:10:50,542 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 20:10:51,009 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 20:10:51,452 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 20:10:51,452 polygon_api | Processing test case 5/13 (index: 5)
+[DEBUG] 2026-10-29 20:10:51,456 polygon_api | Fetching input for test case 5
+[DEBUG] 2026-10-29 20:10:51,909 polygon_api | Fetching output for test case 5
+[INFO] 2026-10-29 20:10:52,345 polygon_api | Successfully fetched test case 5 - Input length: 6, Output length: 3
+[INFO] 2026-10-29 20:10:52,345 polygon_api | Processing test case 6/13 (index: 6)
+[DEBUG] 2026-10-29 20:10:52,345 polygon_api | Fetching input for test case 6
+[DEBUG] 2026-10-29 20:10:53,166 polygon_api | Fetching output for test case 6
+[INFO] 2026-10-29 20:10:53,993 polygon_api | Successfully fetched test case 6 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:10:53,994 polygon_api | Processing test case 7/13 (index: 7)
+[DEBUG] 2026-10-29 20:10:53,994 polygon_api | Fetching input for test case 7
+[DEBUG] 2026-10-29 20:10:54,440 polygon_api | Fetching output for test case 7
+[INFO] 2026-10-29 20:10:54,875 polygon_api | Successfully fetched test case 7 - Input length: 23, Output length: 12
+[INFO] 2026-10-29 20:10:54,875 polygon_api | Processing test case 8/13 (index: 8)
+[DEBUG] 2026-10-29 20:10:54,876 polygon_api | Fetching input for test case 8
+[DEBUG] 2026-10-29 20:10:55,291 polygon_api | Fetching output for test case 8
+[INFO] 2026-10-29 20:10:55,698 polygon_api | Successfully fetched test case 8 - Input length: 25, Output length: 13
+[INFO] 2026-10-29 20:10:55,699 polygon_api | Processing test case 9/13 (index: 9)
+[DEBUG] 2026-10-29 20:10:55,699 polygon_api | Fetching input for test case 9
+[DEBUG] 2026-10-29 20:10:56,115 polygon_api | Fetching output for test case 9
+[INFO] 2026-10-29 20:10:56,550 polygon_api | Successfully fetched test case 9 - Input length: 24, Output length: 3
+[INFO] 2026-10-29 20:10:56,551 polygon_api | Processing test case 10/13 (index: 10)
+[DEBUG] 2026-10-29 20:10:56,551 polygon_api | Fetching input for test case 10
+[DEBUG] 2026-10-29 20:10:57,005 polygon_api | Fetching output for test case 10
+[INFO] 2026-10-29 20:10:57,428 polygon_api | Successfully fetched test case 10 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:10:57,428 polygon_api | Processing test case 11/13 (index: 11)
+[DEBUG] 2026-10-29 20:10:57,430 polygon_api | Fetching input for test case 11
+[DEBUG] 2026-10-29 20:10:57,847 polygon_api | Fetching output for test case 11
+[INFO] 2026-10-29 20:10:58,238 polygon_api | Successfully fetched test case 11 - Input length: 9, Output length: 5
+[INFO] 2026-10-29 20:10:58,238 polygon_api | Processing test case 12/13 (index: 12)
+[DEBUG] 2026-10-29 20:10:58,238 polygon_api | Fetching input for test case 12
+[DEBUG] 2026-10-29 20:10:58,699 polygon_api | Fetching output for test case 12
+[INFO] 2026-10-29 20:10:59,525 polygon_api | Successfully fetched test case 12 - Input length: 13, Output length: 12
+[INFO] 2026-10-29 20:10:59,526 polygon_api | Processing test case 13/13 (index: 13)
+[DEBUG] 2026-10-29 20:10:59,527 polygon_api | Fetching input for test case 13
+[DEBUG] 2026-10-29 20:10:59,976 polygon_api | Fetching output for test case 13
+[INFO] 2026-10-29 20:11:00,410 polygon_api | Successfully fetched test case 13 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:11:00,415 polygon_api | Completed fetching all 13 test cases for problem 618555
+[DEBUG] 2026-10-29 20:11:00,416 views | Fetched all test cases.
+[INFO] 2026-10-29 20:11:00,507 polygon_api | Stored 13 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 20:11:01,280 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:11:01,280 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:11:01,607 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:11:01,607 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:11:01,607 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:11:01,954 views | test_case_count=13
+[INFO] 2026-10-29 20:11:01,954 views | Exiting index view
+[INFO] 2026-10-29 20:14:47,120 views | Entered index view with method=GET
+[INFO] 2026-10-29 20:14:47,142 views | Exiting index view
+[INFO] 2026-10-29 20:15:19,140 views | Entered index view with method=GET
+[INFO] 2026-10-29 20:15:19,151 views | Exiting index view
+[INFO] 2026-10-29 20:16:47,004 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:16:47,026 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:16:47,027 views | All POST data: {'csrfmiddlewaretoken': ['HHh03ZFsQweYbDl1SJJxKroEtHOi6qxcqClqtHi1ANumxMr1S0LZAuA0llA3uWpb'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 20:16:47,028 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:16:47,048 views | db_problem=None
+[INFO] 2026-10-29 20:16:47,051 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:16:48,778 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:16:48,778 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:16:48,779 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:16:48,789 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:16:49,154 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:16:53,438 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:16:53,459 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmp_epe0o00
+[DEBUG] 2026-10-29 20:16:53,460 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:16:53,460 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:16:53,475 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:16:53,475 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:16:53,476 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:16:53,478 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 20:16:53,846 polygon_api | Found 13 test cases to process
+[INFO] 2026-10-29 20:16:53,847 polygon_api | Processing test case 1/13 (index: 1)
+[DEBUG] 2026-10-29 20:16:53,847 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 20:16:54,356 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 20:16:55,069 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:16:55,069 polygon_api | Processing test case 2/13 (index: 2)
+[DEBUG] 2026-10-29 20:16:55,069 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 20:16:55,526 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 20:16:55,998 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 20:16:55,999 polygon_api | Processing test case 3/13 (index: 3)
+[DEBUG] 2026-10-29 20:16:55,999 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 20:16:56,997 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 20:16:57,537 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 20:16:57,537 polygon_api | Processing test case 4/13 (index: 4)
+[DEBUG] 2026-10-29 20:16:57,538 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 20:16:58,051 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 20:16:58,486 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 20:16:58,487 polygon_api | Processing test case 5/13 (index: 5)
+[DEBUG] 2026-10-29 20:16:58,487 polygon_api | Fetching input for test case 5
+[DEBUG] 2026-10-29 20:16:59,001 polygon_api | Fetching output for test case 5
+[INFO] 2026-10-29 20:16:59,647 polygon_api | Successfully fetched test case 5 - Input length: 6, Output length: 3
+[INFO] 2026-10-29 20:16:59,647 polygon_api | Processing test case 6/13 (index: 6)
+[DEBUG] 2026-10-29 20:16:59,647 polygon_api | Fetching input for test case 6
+[DEBUG] 2026-10-29 20:17:00,086 polygon_api | Fetching output for test case 6
+[INFO] 2026-10-29 20:17:00,547 polygon_api | Successfully fetched test case 6 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:17:00,548 polygon_api | Processing test case 7/13 (index: 7)
+[DEBUG] 2026-10-29 20:17:00,548 polygon_api | Fetching input for test case 7
+[DEBUG] 2026-10-29 20:17:01,014 polygon_api | Fetching output for test case 7
+[INFO] 2026-10-29 20:17:01,458 polygon_api | Successfully fetched test case 7 - Input length: 23, Output length: 12
+[INFO] 2026-10-29 20:17:01,458 polygon_api | Processing test case 8/13 (index: 8)
+[DEBUG] 2026-10-29 20:17:01,459 polygon_api | Fetching input for test case 8
+[DEBUG] 2026-10-29 20:17:01,917 polygon_api | Fetching output for test case 8
+[INFO] 2026-10-29 20:17:02,757 polygon_api | Successfully fetched test case 8 - Input length: 25, Output length: 13
+[INFO] 2026-10-29 20:17:02,759 polygon_api | Processing test case 9/13 (index: 9)
+[DEBUG] 2026-10-29 20:17:02,759 polygon_api | Fetching input for test case 9
+[DEBUG] 2026-10-29 20:17:04,232 polygon_api | Fetching output for test case 9
+[WARNING] 2026-10-29 20:17:09,527 polygon_api | Error fetching test case 9: HTTP Request Error: 502 Server Error: Bad Gateway for url: https://polygon.codeforces.com/api/problem.testAnswer
+[INFO] 2026-10-29 20:17:09,527 polygon_api | Processing test case 10/13 (index: 10)
+[DEBUG] 2026-10-29 20:17:09,527 polygon_api | Fetching input for test case 10
+[DEBUG] 2026-10-29 20:17:10,113 polygon_api | Fetching output for test case 10
+[INFO] 2026-10-29 20:17:11,053 polygon_api | Successfully fetched test case 10 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:17:11,053 polygon_api | Processing test case 11/13 (index: 11)
+[DEBUG] 2026-10-29 20:17:11,054 polygon_api | Fetching input for test case 11
+[DEBUG] 2026-10-29 20:17:11,596 polygon_api | Fetching output for test case 11
+[INFO] 2026-10-29 20:17:12,061 polygon_api | Successfully fetched test case 11 - Input length: 9, Output length: 5
+[INFO] 2026-10-29 20:17:12,061 polygon_api | Processing test case 12/13 (index: 12)
+[DEBUG] 2026-10-29 20:17:12,062 polygon_api | Fetching input for test case 12
+[DEBUG] 2026-10-29 20:17:12,558 polygon_api | Fetching output for test case 12
+[INFO] 2026-10-29 20:17:13,201 polygon_api | Successfully fetched test case 12 - Input length: 13, Output length: 12
+[INFO] 2026-10-29 20:17:13,202 polygon_api | Processing test case 13/13 (index: 13)
+[DEBUG] 2026-10-29 20:17:13,202 polygon_api | Fetching input for test case 13
+[DEBUG] 2026-10-29 20:17:13,729 polygon_api | Fetching output for test case 13
+[INFO] 2026-10-29 20:17:14,385 polygon_api | Successfully fetched test case 13 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:17:14,386 polygon_api | Completed fetching all 13 test cases for problem 618555
+[DEBUG] 2026-10-29 20:17:14,386 views | Fetched all test cases.
+[INFO] 2026-10-29 20:17:14,451 polygon_api | Stored 13 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 20:17:14,828 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:17:14,829 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:17:15,172 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:15,172 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:15,173 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:17:15,544 views | test_case_count=13
+[INFO] 2026-10-29 20:17:15,549 views | Exiting index view
+[INFO] 2026-10-29 20:17:32,998 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:17:33,003 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=['math', 'implementation'], new_tag=
+[DEBUG] 2026-10-29 20:17:33,003 views | All POST data: {'csrfmiddlewaretoken': ['CaB7ftO0HYfppMNc7viJ1bILltmmwrIul5FxFbrzrfvNLVTc7MkbReU7d787UXAt'], 'problem_id': ['618555'], 'migrate_to_db': ['1'], 'difficulty': ['easy'], 'tags': ['math', 'implementation']}
+[INFO] 2026-10-29 20:17:33,004 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:17:33,008 views | db_problem=None
+[INFO] 2026-10-29 20:17:33,009 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:17:33,377 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:17:33,378 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:17:33,378 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:17:33,381 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:17:34,166 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:17:36,359 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:17:36,379 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmp7ovkp9ym
+[DEBUG] 2026-10-29 20:17:36,380 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:17:36,380 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:17:36,382 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:17:36,382 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:17:36,382 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:17:36,415 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:17:36,416 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:17:36,771 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:17:36,771 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:17:37,116 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:37,117 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:37,117 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:17:37,466 views | test_case_count=13
+[INFO] 2026-10-29 20:17:37,466 views | Starting DB migration for polygon_id=618555
+[INFO] 2026-10-29 20:17:37,471 views | Creating new Problem in DB
+[INFO] 2026-10-29 20:17:37,504 views | Processing tags for problem
+[DEBUG] 2026-10-29 20:17:37,504 views | Selected tags before processing: ['math', 'implementation']
+[DEBUG] 2026-10-29 20:17:37,505 views | New tag before processing: 
+[DEBUG] 2026-10-29 20:17:37,530 views | Cleared existing tags for problem 2
+[DEBUG] 2026-10-29 20:17:37,530 views | Processing tag: math
+[DEBUG] 2026-10-29 20:17:37,545 views | Added existing tag: math
+[DEBUG] 2026-10-29 20:17:37,546 views | Processing tag: implementation
+[DEBUG] 2026-10-29 20:17:37,551 views | Added existing tag: implementation
+[DEBUG] 2026-10-29 20:17:37,566 views | Final tags after processing: ['math', 'implementation']
+[INFO] 2026-10-29 20:17:37,585 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:17:37,586 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:17:37,587 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 20:17:37,587 views | sample_tests: [{'index': 1, 'input': '1 2\r\n', 'output': '3\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '5 7\r\n', 'output': '12\r\n', 'description': '', 'is_sample': True}, {'index': 5, 'input': '-3 3\r\n', 'output': '0\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 20:17:37,605 views | Sample test idx=0, input_data=1 2, output_data=3
+[DEBUG] 2026-10-29 20:17:37,611 views | Sample test idx=1, input_data=5 7, output_data=12
+[DEBUG] 2026-10-29 20:17:37,616 views | Sample test idx=2, input_data=-3 3, output_data=0
+[DEBUG] 2026-10-29 20:17:38,007 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:17:38,813 views | Exiting index view
+[INFO] 2026-10-29 20:17:42,257 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:17:42,265 views | POST data: polygon_id=618555, migrate_to_storage=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:17:42,266 views | All POST data: {'csrfmiddlewaretoken': ['fRZgG5hOKNXVjW7SJWXx6optseRQH7XUYM3G6NUnu4djF5dSJdZZWrBPkSDB5DPT'], 'problem_id': ['618555'], 'migrate_to_storage': ['1']}
+[INFO] 2026-10-29 20:17:42,266 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:17:42,277 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 20:17:43,514 views | Updated working copy: None
+[DEBUG] 2026-10-29 20:17:43,865 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:17:44,225 views | Storage migration triggered for polygon_id=618555
+[INFO] 2026-10-29 20:17:44,238 views | Problem found in DB, proceeding with storage migration
+[INFO] 2026-10-29 20:17:44,241 views | Storage migration params: problem_id=2, provider=gdrive
+[INFO] 2026-10-29 20:17:44,243 polygon_api | pattern oj_dev_with_redis_storage_test_cases_2*
+[INFO] 2026-10-29 20:17:44,301 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:17:44,660 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:44,661 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:44,661 views | Calling migrate_to_storage
+[INFO] 2026-10-29 20:17:45,095 polygon_api | Starting migrate_to_storage for problem 618555
+[INFO] 2026-10-29 20:17:45,119 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:17:45,120 polygon_api | Retrieved test cases from Redis for storage migration (saved Polygon API call)
+[INFO] 2026-10-29 20:17:45,123 polygon_api | Retrieved 13 test cases for storage migration
+[INFO] 2026-10-29 20:17:45,123 polygon_api | Using problem_id_for_naming: 2
+[WARNING] 2026-10-29 20:17:45,124 polygon_api | Skipping test case #9: missing input or output. input: '', output: ''
+[INFO] 2026-10-29 20:17:45,125 polygon_api | Starting custom checker processing for problem 618555
+[INFO] 2026-10-29 20:17:45,126 polygon_api | Processing custom checker for problem 618555
+[INFO] 2026-10-29 20:17:45,126 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:17:45,503 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:45,503 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:17:45,504 polygon_api | No custom checker found for problem 618555
+[INFO] 2026-10-29 20:17:45,504 polygon_api | Completed custom checker processing for problem 618555
+[INFO] 2026-10-29 20:17:48,546 google_drive | Created Drive folder 2.uploading
+[INFO] 2026-10-29 20:18:31,026 google_drive | Uploaded 24 files to test_cases/2.uploading
+[INFO] 2026-10-29 20:18:31,808 polygon_api | Uploaded 12 test cases to Google Drive
+[INFO] 2026-10-29 20:18:31,808 polygon_api | Completed migrate_to_storage for problem 618555
+[INFO] 2026-10-29 20:18:31,809 views | Storage migration completed successfully
+[INFO] 2026-10-29 20:18:31,809 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:18:32,606 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:18:32,606 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:18:32,606 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:18:32,608 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:18:33,034 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:18:35,782 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:18:35,807 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpznddicnf
+[DEBUG] 2026-10-29 20:18:35,808 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:18:35,808 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:18:35,811 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:18:35,812 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:18:35,812 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:18:35,851 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:18:35,852 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:18:36,677 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:18:36,677 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:18:37,431 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:18:37,431 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:18:37,432 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:18:38,456 views | test_case_count=13
+[INFO] 2026-10-29 20:18:38,481 views | Exiting index view
+[INFO] 2026-10-29 20:18:46,866 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:18:46,875 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=1, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:18:46,875 views | All POST data: {'csrfmiddlewaretoken': ['msvzkrnnrkipOdnbGQw7hkJE49fwuxhv5nzZK90WbByNamtbG7yz7nV0WN1hS39u'], 'problem_id': ['618555'], 'migrate_test_cases_to_db': ['1']}
+[INFO] 2026-10-29 20:18:46,876 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:18:46,894 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 20:18:48,084 views | Updated working copy: None
+[DEBUG] 2026-10-29 20:18:48,445 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:18:48,799 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:18:49,598 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:18:49,599 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:18:49,599 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:18:49,609 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:18:49,953 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:18:52,702 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:18:52,719 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmptswfryyt
+[DEBUG] 2026-10-29 20:18:52,720 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:18:52,720 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:18:52,721 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:18:52,721 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:18:52,721 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:18:52,743 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:18:52,743 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:18:53,089 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:18:53,089 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:18:53,425 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:18:53,425 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:18:53,425 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:18:54,208 views | test_case_count=13
+[INFO] 2026-10-29 20:18:54,599 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:18:54,600 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:18:54,601 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 20:18:54,620 views | Test case idx=0, input_data=1 2, output_data=3, is_sample=True, description=
+[DEBUG] 2026-10-29 20:18:54,621 views | Test case idx=0, truncated_input_length=3, truncated_output_length=1
+[DEBUG] 2026-10-29 20:18:54,646 views | Test case idx=1, input_data=5 7, output_data=12, is_sample=True, description=
+[DEBUG] 2026-10-29 20:18:54,649 views | Test case idx=1, truncated_input_length=3, truncated_output_length=2
+[DEBUG] 2026-10-29 20:18:54,657 views | Test case idx=2, input_data=-3 -3, output_data=-6, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,658 views | Test case idx=2, truncated_input_length=5, truncated_output_length=2
+[DEBUG] 2026-10-29 20:18:54,667 views | Test case idx=3, input_data=0 14, output_data=14, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,667 views | Test case idx=3, truncated_input_length=4, truncated_output_length=2
+[DEBUG] 2026-10-29 20:18:54,671 views | Test case idx=4, input_data=-3 3, output_data=0, is_sample=True, description=
+[DEBUG] 2026-10-29 20:18:54,672 views | Test case idx=4, truncated_input_length=4, truncated_output_length=1
+[DEBUG] 2026-10-29 20:18:54,679 views | Test case idx=5, input_data=0 0, output_data=0, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,680 views | Test case idx=5, truncated_input_length=3, truncated_output_length=1
+[DEBUG] 2026-10-29 20:18:54,683 views | Test case idx=6, input_data=1000000000 1000000000, output_data=2000000000, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,684 views | Test case idx=6, truncated_input_length=21, truncated_output_length=10
+[DEBUG] 2026-10-29 20:18:54,688 views | Test case idx=7, input_data=-1000000000 -1000000000, output_data=-2000000000, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,688 views | Test case idx=7, truncated_input_length=23, truncated_output_length=11
+[DEBUG] 2026-10-29 20:18:54,699 views | Test case idx=8, input_data=, output_data=, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,700 views | Test case idx=9, input_data=123456789 987654321, output_data=1111111110, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,700 views | Test case idx=9, truncated_input_length=19, truncated_output_length=10
+[DEBUG] 2026-10-29 20:18:54,704 views | Test case idx=10, input_data=42 -100, output_data=-58, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,704 views | Test case idx=10, truncated_input_length=7, truncated_output_length=3
+[DEBUG] 2026-10-29 20:18:54,709 views | Test case idx=11, input_data=999999999 1, output_data=1000000000, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,710 views | Test case idx=11, truncated_input_length=11, truncated_output_length=10
+[DEBUG] 2026-10-29 20:18:54,717 views | Test case idx=12, input_data=500000000 500000001, output_data=1000000001, is_sample=False, description=
+[DEBUG] 2026-10-29 20:18:54,717 views | Test case idx=12, truncated_input_length=19, truncated_output_length=10
+[INFO] 2026-10-29 20:18:54,750 views | Exiting index view
+[INFO] 2026-10-29 20:41:37,111 views | Entered index view with method=GET
+[INFO] 2026-10-29 20:41:37,138 views | Exiting index view
+[INFO] 2026-10-29 20:41:44,700 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:41:44,704 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:41:44,704 views | All POST data: {'csrfmiddlewaretoken': ['X6VWyajOS6hxxmE9YXdHEg6OoFzUd8xeCpW7PDjV6Fhun5N6rhMgJ0FQRvpZX3Ij'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 20:41:44,705 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:41:44,726 views | db_problem=Two Sum
+[ERROR] 2026-10-29 20:41:55,842 views | Error fetching solution: HTTP Request Error: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.updateWorkingCopy (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001126B821BE0>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+[INFO] 2026-10-29 20:41:55,844 polygon_api | Fetching problem info for 618555
+[ERROR] 2026-10-29 20:42:06,902 views | Exception in index view: HTTP Request Error: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001126B758410>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Black Man\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connection.py", line 704, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x000001126B758410>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001126B758410>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 98, in _make_request
+    response = requests.post(f"{self.API_URL}{method_name}", data=post_params)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\.venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001126B758410>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\views.py", line 232, in index
+    info = api.get_problem_info(polygon_id)
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 256, in get_problem_info
+    info = self._make_request('problem.info', {'problemId': problem_id})
+  File "C:\Users\Black Man\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 116, in _make_request
+    raise Exception(f"HTTP Request Error: {e}")
+Exception: HTTP Request Error: HTTPSConnectionPool(host='polygon.codeforces.com', port=443): Max retries exceeded with url: /api/problem.info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001126B758410>: Failed to resolve 'polygon.codeforces.com' ([Errno 11001] getaddrinfo failed)"))
+[INFO] 2026-10-29 20:42:07,037 polygon_api | Cleared 14 test case keys from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:42:07,038 views | Exiting index view
+[INFO] 2026-10-29 20:42:15,970 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:42:15,976 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:42:15,977 views | All POST data: {'csrfmiddlewaretoken': ['oS8t8pqaAWZTlDK3c5zpiGjs72BNveqT3b9EpSqhOvZQbmT0Fp8YnqSuASrSf9BY'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 20:42:15,977 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:42:15,983 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 20:42:18,445 views | Updated working copy: None
+[DEBUG] 2026-10-29 20:42:18,799 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:42:19,703 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:42:20,105 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:42:20,108 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:42:20,110 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:42:20,126 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:42:20,548 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:42:25,164 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:42:25,250 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpul8wltr9
+[DEBUG] 2026-10-29 20:42:25,252 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:42:25,253 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:42:25,276 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:42:25,277 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:42:25,278 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:42:25,283 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 20:42:25,678 polygon_api | Found 13 test cases to process
+[INFO] 2026-10-29 20:42:25,679 polygon_api | Processing test case 1/13 (index: 1)
+[DEBUG] 2026-10-29 20:42:25,679 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 20:42:26,173 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 20:42:27,414 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:42:27,415 polygon_api | Processing test case 2/13 (index: 2)
+[DEBUG] 2026-10-29 20:42:27,416 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 20:42:28,751 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 20:42:31,152 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 20:42:31,153 polygon_api | Processing test case 3/13 (index: 3)
+[DEBUG] 2026-10-29 20:42:31,153 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 20:42:33,329 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 20:42:34,583 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 20:42:34,584 polygon_api | Processing test case 4/13 (index: 4)
+[DEBUG] 2026-10-29 20:42:34,584 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 20:42:35,046 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 20:42:35,926 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 20:42:35,927 polygon_api | Processing test case 5/13 (index: 5)
+[DEBUG] 2026-10-29 20:42:35,927 polygon_api | Fetching input for test case 5
+[DEBUG] 2026-10-29 20:42:36,800 polygon_api | Fetching output for test case 5
+[INFO] 2026-10-29 20:42:37,611 polygon_api | Successfully fetched test case 5 - Input length: 6, Output length: 3
+[INFO] 2026-10-29 20:42:37,612 polygon_api | Processing test case 6/13 (index: 6)
+[DEBUG] 2026-10-29 20:42:37,612 polygon_api | Fetching input for test case 6
+[DEBUG] 2026-10-29 20:42:38,596 polygon_api | Fetching output for test case 6
+[INFO] 2026-10-29 20:42:39,926 polygon_api | Successfully fetched test case 6 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:42:39,926 polygon_api | Processing test case 7/13 (index: 7)
+[DEBUG] 2026-10-29 20:42:39,926 polygon_api | Fetching input for test case 7
+[DEBUG] 2026-10-29 20:42:42,062 polygon_api | Fetching output for test case 7
+[INFO] 2026-10-29 20:42:44,518 polygon_api | Successfully fetched test case 7 - Input length: 23, Output length: 12
+[INFO] 2026-10-29 20:42:44,518 polygon_api | Processing test case 8/13 (index: 8)
+[DEBUG] 2026-10-29 20:42:44,519 polygon_api | Fetching input for test case 8
+[DEBUG] 2026-10-29 20:42:45,921 polygon_api | Fetching output for test case 8
+[INFO] 2026-10-29 20:42:46,334 polygon_api | Successfully fetched test case 8 - Input length: 25, Output length: 13
+[INFO] 2026-10-29 20:42:46,335 polygon_api | Processing test case 9/13 (index: 9)
+[DEBUG] 2026-10-29 20:42:46,335 polygon_api | Fetching input for test case 9
+[DEBUG] 2026-10-29 20:42:48,579 polygon_api | Fetching output for test case 9
+[INFO] 2026-10-29 20:42:49,408 polygon_api | Successfully fetched test case 9 - Input length: 24, Output length: 3
+[INFO] 2026-10-29 20:42:49,408 polygon_api | Processing test case 10/13 (index: 10)
+[DEBUG] 2026-10-29 20:42:49,408 polygon_api | Fetching input for test case 10
+[DEBUG] 2026-10-29 20:42:49,859 polygon_api | Fetching output for test case 10
+[INFO] 2026-10-29 20:42:50,280 polygon_api | Successfully fetched test case 10 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:42:50,280 polygon_api | Processing test case 11/13 (index: 11)
+[DEBUG] 2026-10-29 20:42:50,281 polygon_api | Fetching input for test case 11
+[DEBUG] 2026-10-29 20:42:50,772 polygon_api | Fetching output for test case 11
+[INFO] 2026-10-29 20:42:51,366 polygon_api | Successfully fetched test case 11 - Input length: 9, Output length: 5
+[INFO] 2026-10-29 20:42:51,366 polygon_api | Processing test case 12/13 (index: 12)
+[DEBUG] 2026-10-29 20:42:51,366 polygon_api | Fetching input for test case 12
+[DEBUG] 2026-10-29 20:42:52,540 polygon_api | Fetching output for test case 12
+[INFO] 2026-10-29 20:42:53,037 polygon_api | Successfully fetched test case 12 - Input length: 13, Output length: 12
+[INFO] 2026-10-29 20:42:53,038 polygon_api | Processing test case 13/13 (index: 13)
+[DEBUG] 2026-10-29 20:42:53,039 polygon_api | Fetching input for test case 13
+[DEBUG] 2026-10-29 20:42:53,446 polygon_api | Fetching output for test case 13
+[INFO] 2026-10-29 20:42:54,222 polygon_api | Successfully fetched test case 13 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:42:54,222 polygon_api | Completed fetching all 13 test cases for problem 618555
+[DEBUG] 2026-10-29 20:42:54,222 views | Fetched all test cases.
+[INFO] 2026-10-29 20:42:54,254 polygon_api | Stored 13 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 20:42:54,643 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:42:54,644 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:42:54,972 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:42:54,972 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:42:54,972 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:42:55,311 views | test_case_count=13
+[INFO] 2026-10-29 20:42:55,312 views | Exiting index view
+[INFO] 2026-10-29 20:45:40,071 views | Entered index view with method=GET
+[INFO] 2026-10-29 20:45:40,145 views | Exiting index view
+[INFO] 2026-10-29 20:45:52,686 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:45:52,690 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:45:52,691 views | All POST data: {'csrfmiddlewaretoken': ['7J2tHkeWAWWZ5j1kR8xhLYNX64WmfO5ljEmdV0VfFf40sFzIy3T4vyFZYNCVMR0t'], 'problem_id': ['618555']}
+[INFO] 2026-10-29 20:45:52,692 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:45:52,710 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 20:45:55,078 views | Updated working copy: None
+[DEBUG] 2026-10-29 20:45:55,429 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:45:55,783 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:45:56,254 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:45:56,257 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:45:56,258 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:45:56,267 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:45:56,747 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:46:07,985 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:46:08,019 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpxgs2k9e2
+[DEBUG] 2026-10-29 20:46:08,020 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:46:08,021 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:46:08,034 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:46:08,034 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:46:08,035 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:46:08,039 polygon_api | Fetching all test cases for 618555, testset
+[INFO] 2026-10-29 20:46:08,406 polygon_api | Found 13 test cases to process
+[INFO] 2026-10-29 20:46:08,406 polygon_api | Processing test case 1/13 (index: 1)
+[DEBUG] 2026-10-29 20:46:08,406 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 20:46:08,824 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 20:46:09,259 polygon_api | Successfully fetched test case 1 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:46:09,260 polygon_api | Processing test case 2/13 (index: 2)
+[DEBUG] 2026-10-29 20:46:09,260 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 20:46:09,692 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 20:46:10,147 polygon_api | Successfully fetched test case 2 - Input length: 5, Output length: 4
+[INFO] 2026-10-29 20:46:10,147 polygon_api | Processing test case 3/13 (index: 3)
+[DEBUG] 2026-10-29 20:46:10,148 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 20:46:10,642 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 20:46:11,100 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 4
+[INFO] 2026-10-29 20:46:11,100 polygon_api | Processing test case 4/13 (index: 4)
+[DEBUG] 2026-10-29 20:46:11,100 polygon_api | Fetching input for test case 4
+[DEBUG] 2026-10-29 20:46:11,514 polygon_api | Fetching output for test case 4
+[INFO] 2026-10-29 20:46:11,969 polygon_api | Successfully fetched test case 4 - Input length: 6, Output length: 4
+[INFO] 2026-10-29 20:46:11,970 polygon_api | Processing test case 5/13 (index: 5)
+[DEBUG] 2026-10-29 20:46:11,970 polygon_api | Fetching input for test case 5
+[DEBUG] 2026-10-29 20:46:12,854 polygon_api | Fetching output for test case 5
+[INFO] 2026-10-29 20:46:13,267 polygon_api | Successfully fetched test case 5 - Input length: 6, Output length: 3
+[INFO] 2026-10-29 20:46:13,268 polygon_api | Processing test case 6/13 (index: 6)
+[DEBUG] 2026-10-29 20:46:13,268 polygon_api | Fetching input for test case 6
+[DEBUG] 2026-10-29 20:46:13,720 polygon_api | Fetching output for test case 6
+[INFO] 2026-10-29 20:46:14,622 polygon_api | Successfully fetched test case 6 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 20:46:14,622 polygon_api | Processing test case 7/13 (index: 7)
+[DEBUG] 2026-10-29 20:46:14,622 polygon_api | Fetching input for test case 7
+[DEBUG] 2026-10-29 20:46:15,032 polygon_api | Fetching output for test case 7
+[INFO] 2026-10-29 20:46:15,443 polygon_api | Successfully fetched test case 7 - Input length: 23, Output length: 12
+[INFO] 2026-10-29 20:46:15,457 polygon_api | Processing test case 8/13 (index: 8)
+[DEBUG] 2026-10-29 20:46:15,467 polygon_api | Fetching input for test case 8
+[DEBUG] 2026-10-29 20:46:15,885 polygon_api | Fetching output for test case 8
+[INFO] 2026-10-29 20:46:16,326 polygon_api | Successfully fetched test case 8 - Input length: 25, Output length: 13
+[INFO] 2026-10-29 20:46:16,327 polygon_api | Processing test case 9/13 (index: 9)
+[DEBUG] 2026-10-29 20:46:16,327 polygon_api | Fetching input for test case 9
+[DEBUG] 2026-10-29 20:46:16,770 polygon_api | Fetching output for test case 9
+[INFO] 2026-10-29 20:46:17,190 polygon_api | Successfully fetched test case 9 - Input length: 24, Output length: 3
+[INFO] 2026-10-29 20:46:17,191 polygon_api | Processing test case 10/13 (index: 10)
+[DEBUG] 2026-10-29 20:46:17,191 polygon_api | Fetching input for test case 10
+[DEBUG] 2026-10-29 20:46:17,614 polygon_api | Fetching output for test case 10
+[INFO] 2026-10-29 20:46:18,470 polygon_api | Successfully fetched test case 10 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:46:18,471 polygon_api | Processing test case 11/13 (index: 11)
+[DEBUG] 2026-10-29 20:46:18,471 polygon_api | Fetching input for test case 11
+[DEBUG] 2026-10-29 20:46:20,215 polygon_api | Fetching output for test case 11
+[INFO] 2026-10-29 20:46:21,303 polygon_api | Successfully fetched test case 11 - Input length: 9, Output length: 5
+[INFO] 2026-10-29 20:46:21,303 polygon_api | Processing test case 12/13 (index: 12)
+[DEBUG] 2026-10-29 20:46:21,303 polygon_api | Fetching input for test case 12
+[DEBUG] 2026-10-29 20:46:21,740 polygon_api | Fetching output for test case 12
+[INFO] 2026-10-29 20:46:22,158 polygon_api | Successfully fetched test case 12 - Input length: 13, Output length: 12
+[INFO] 2026-10-29 20:46:22,159 polygon_api | Processing test case 13/13 (index: 13)
+[DEBUG] 2026-10-29 20:46:22,159 polygon_api | Fetching input for test case 13
+[DEBUG] 2026-10-29 20:46:22,568 polygon_api | Fetching output for test case 13
+[INFO] 2026-10-29 20:46:23,006 polygon_api | Successfully fetched test case 13 - Input length: 21, Output length: 12
+[INFO] 2026-10-29 20:46:23,006 polygon_api | Completed fetching all 13 test cases for problem 618555
+[DEBUG] 2026-10-29 20:46:23,006 views | Fetched all test cases.
+[INFO] 2026-10-29 20:46:23,725 polygon_api | Stored 13 test cases in Redis for polygon_id 618555
+[DEBUG] 2026-10-29 20:46:24,096 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:46:24,097 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:46:24,448 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:46:24,448 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:46:24,449 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:46:24,819 views | test_case_count=13
+[INFO] 2026-10-29 20:46:24,821 views | Exiting index view
+[INFO] 2026-10-29 20:46:52,900 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:46:52,908 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=['math', 'implementation'], new_tag=
+[DEBUG] 2026-10-29 20:46:52,909 views | All POST data: {'csrfmiddlewaretoken': ['ky9dfcDZbrI8oEU4F7eax5EdQvg2gn0nwttXtSkigKQ9L0ssm2AXhFwfIeWBNqVv'], 'problem_id': ['618555'], 'migrate_to_db': ['1'], 'difficulty': ['easy'], 'tags': ['math', 'implementation']}
+[INFO] 2026-10-29 20:46:52,909 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:46:52,915 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 20:46:54,046 views | Updated working copy: None
+[DEBUG] 2026-10-29 20:46:54,816 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:46:55,167 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:46:55,560 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:46:55,561 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:46:55,561 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:46:55,562 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:46:55,943 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:47:04,191 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:47:04,231 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpfj48emud
+[DEBUG] 2026-10-29 20:47:04,233 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:47:04,233 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:47:04,238 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:47:04,238 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:47:04,238 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:47:04,418 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:47:04,419 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:47:04,787 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:47:04,788 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:47:05,148 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:47:05,149 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:47:05,149 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:47:06,350 views | test_case_count=13
+[INFO] 2026-10-29 20:47:06,351 views | Starting DB migration for polygon_id=618555
+[INFO] 2026-10-29 20:47:06,387 views | Updating existing Problem in DB
+[INFO] 2026-10-29 20:47:06,423 views | Processing tags for problem
+[DEBUG] 2026-10-29 20:47:06,424 views | Selected tags before processing: ['math', 'implementation']
+[DEBUG] 2026-10-29 20:47:06,425 views | New tag before processing: 
+[DEBUG] 2026-10-29 20:47:06,440 views | Cleared existing tags for problem 2
+[DEBUG] 2026-10-29 20:47:06,441 views | Processing tag: math
+[DEBUG] 2026-10-29 20:47:06,473 views | Added existing tag: math
+[DEBUG] 2026-10-29 20:47:06,473 views | Processing tag: implementation
+[DEBUG] 2026-10-29 20:47:06,488 views | Added existing tag: implementation
+[DEBUG] 2026-10-29 20:47:06,552 views | Final tags after processing: ['math', 'implementation']
+[INFO] 2026-10-29 20:47:06,848 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:47:06,849 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:47:06,853 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 20:47:06,858 views | sample_tests: [{'index': 1, 'input': '1 2\r\n', 'output': '3\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '5 7\r\n', 'output': '12\r\n', 'description': '', 'is_sample': True}, {'index': 5, 'input': '-3 3\r\n', 'output': '0\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 20:47:06,913 views | Sample test idx=0, input_data=1 2, output_data=3
+[DEBUG] 2026-10-29 20:47:06,934 views | Sample test idx=1, input_data=5 7, output_data=12
+[DEBUG] 2026-10-29 20:47:06,957 views | Sample test idx=2, input_data=-3 3, output_data=0
+[DEBUG] 2026-10-29 20:47:07,354 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:47:07,766 views | Exiting index view
+[INFO] 2026-10-29 20:47:13,621 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:47:13,630 views | POST data: polygon_id=618555, migrate_to_storage=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:47:13,630 views | All POST data: {'csrfmiddlewaretoken': ['rG9w4sC1exHtVAr7FavbjjhCCUGqefHuDBtgi8jkjQPuiWZvm5RY3T9EuDmZLiCC'], 'problem_id': ['618555'], 'migrate_to_storage': ['1']}
+[INFO] 2026-10-29 20:47:13,630 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:47:13,635 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 20:47:14,800 views | Updated working copy: None
+[DEBUG] 2026-10-29 20:47:15,153 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:47:15,583 views | Storage migration triggered for polygon_id=618555
+[INFO] 2026-10-29 20:47:15,589 views | Problem found in DB, proceeding with storage migration
+[INFO] 2026-10-29 20:47:15,590 views | Storage migration params: problem_id=2, provider=gdrive
+[INFO] 2026-10-29 20:47:15,590 polygon_api | pattern oj_dev_with_redis_storage_test_cases_2*
+[INFO] 2026-10-29 20:47:15,601 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:47:16,350 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:47:16,351 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:47:16,351 views | Calling migrate_to_storage
+[INFO] 2026-10-29 20:47:16,635 polygon_api | Starting migrate_to_storage for problem 618555
+[INFO] 2026-10-29 20:47:16,676 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:47:16,677 polygon_api | Retrieved test cases from Redis for storage migration (saved Polygon API call)
+[INFO] 2026-10-29 20:47:16,678 polygon_api | Retrieved 13 test cases for storage migration
+[INFO] 2026-10-29 20:47:16,678 polygon_api | Using problem_id_for_naming: 2
+[INFO] 2026-10-29 20:47:16,680 polygon_api | Starting custom checker processing for problem 618555
+[INFO] 2026-10-29 20:47:16,680 polygon_api | Processing custom checker for problem 618555
+[INFO] 2026-10-29 20:47:16,681 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:47:17,071 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:47:17,073 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:47:17,073 polygon_api | No custom checker found for problem 618555
+[INFO] 2026-10-29 20:47:17,073 polygon_api | Completed custom checker processing for problem 618555
+[INFO] 2026-10-29 20:47:21,205 google_drive | Created Drive folder 2.uploading
+[INFO] 2026-10-29 20:48:08,957 google_drive | Uploaded 26 files to test_cases/2.uploading
+[INFO] 2026-10-29 20:48:11,408 google_drive | Moved Drive item test_cases/2 (previous) to trash
+[INFO] 2026-10-29 20:48:11,409 polygon_api | Uploaded 13 test cases to Google Drive
+[INFO] 2026-10-29 20:48:11,409 polygon_api | Completed migrate_to_storage for problem 618555
+[INFO] 2026-10-29 20:48:11,410 views | Storage migration completed successfully
+[INFO] 2026-10-29 20:48:11,411 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:48:18,873 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:48:18,873 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:48:18,874 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:48:18,883 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:48:19,241 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:48:27,894 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:48:27,915 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmpikynjqch
+[DEBUG] 2026-10-29 20:48:27,916 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:48:27,916 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:48:27,922 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:48:27,922 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:48:27,923 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:48:27,964 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:48:27,965 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:48:28,312 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:48:28,313 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:48:28,665 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:48:28,666 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:48:28,666 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:48:29,062 views | test_case_count=13
+[INFO] 2026-10-29 20:48:29,075 views | Exiting index view
+[INFO] 2026-10-29 20:48:35,050 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 20:48:35,056 views | POST data: polygon_id=618555, migrate_to_storage=None, migrate_to_db=None, migrate_test_cases_to_db=1, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 20:48:35,057 views | All POST data: {'csrfmiddlewaretoken': ['IlDYUxPwBoyfpXEatz6iUlos85NXdi9EUgXI8dwPGHGgMjcyaus5EVgu0OtwKl4M'], 'problem_id': ['618555'], 'migrate_test_cases_to_db': ['1']}
+[INFO] 2026-10-29 20:48:35,057 views | Processing polygon_id=618555
+[DEBUG] 2026-10-29 20:48:35,063 views | db_problem=Two Sum
+[DEBUG] 2026-10-29 20:48:36,184 views | Updated working copy: None
+[DEBUG] 2026-10-29 20:48:36,539 views | Fetched solutions: [{'name': 'main.cpp', 'modificationTimeSeconds': 1793269960, 'length': 151, 'tag': 'MA', 'sourceType': 'cpp.gcc14-64-msys2-g++23'}]
+[INFO] 2026-10-29 20:48:36,890 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:48:37,253 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 20:48:37,254 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:48:37,254 polygon_api | Downloading package for problem 618555
+[INFO] 2026-10-29 20:48:37,255 polygon_api | Fetching problem info for 618555
+[INFO] 2026-10-29 20:48:37,621 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 20:48:47,523 polygon_api | Successfully read problem.html content, length: 2854 characters
+[DEBUG] 2026-10-29 20:48:47,576 polygon_api | Cleaned up temporary directory: C:\Users\BLACKM~1\AppData\Local\Temp\tmp0qgdnfec
+[DEBUG] 2026-10-29 20:48:47,577 views | Downloaded and extracted problem_html_content, length: 2854
+[INFO] 2026-10-29 20:48:47,578 views | Entered parse_problem_html with content length=2854
+[DEBUG] 2026-10-29 20:48:47,580 views | Extracted title=Two Sum, legend length=101, input_format length=137, output_format length=57
+[INFO] 2026-10-29 20:48:47,580 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 20:48:47,581 views | Parsed html_data: {'title': 'Two Sum', 'legend': '<p>You are given two integers $$$a$$$ and $$$b$$$. Your task is to compute their sum $$$a + b$$$.</p>', 'input_format': '<p>The only line of the input contains two integers $$$a$$$ and $$$b$$$ ($$$-10^9 \\le a, b \\le 10^9$$$), separated by a single space.</p>', 'output_format': '<p>Print a single integer — the value of $$$a + b$$$.</p>', 'notes': '<p>In the first example, $$$1 + 2 = 3$$$.</p><p>In the third example, $$$-3 + 3 = 0$$$.</p>'}
+[INFO] 2026-10-29 20:48:47,618 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:48:47,619 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:48:47,974 views | checker_type=std::ncmp.cpp
+[INFO] 2026-10-29 20:48:47,975 polygon_api | Fetching custom checker info for problem 618555
+[DEBUG] 2026-10-29 20:48:48,331 polygon_api | Raw checker info: std::ncmp.cpp
+[INFO] 2026-10-29 20:48:48,331 polygon_api | No custom checker found, using standard checker: std::ncmp.cpp
+[INFO] 2026-10-29 20:48:48,331 polygon_api | Fetching test cases for 618555, testset
+[DEBUG] 2026-10-29 20:48:49,135 views | test_case_count=13
+[INFO] 2026-10-29 20:48:49,195 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618555
+[INFO] 2026-10-29 20:48:49,199 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 20:48:49,200 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 20:48:49,232 views | Test case idx=0, input_data=1 2, output_data=3, is_sample=True, description=
+[DEBUG] 2026-10-29 20:48:49,232 views | Test case idx=0, truncated_input_length=3, truncated_output_length=1
+[DEBUG] 2026-10-29 20:48:49,242 views | Test case idx=1, input_data=5 7, output_data=12, is_sample=True, description=
+[DEBUG] 2026-10-29 20:48:49,246 views | Test case idx=1, truncated_input_length=3, truncated_output_length=2
+[DEBUG] 2026-10-29 20:48:49,251 views | Test case idx=2, input_data=-3 -3, output_data=-6, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,252 views | Test case idx=2, truncated_input_length=5, truncated_output_length=2
+[DEBUG] 2026-10-29 20:48:49,256 views | Test case idx=3, input_data=0 14, output_data=14, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,256 views | Test case idx=3, truncated_input_length=4, truncated_output_length=2
+[DEBUG] 2026-10-29 20:48:49,260 views | Test case idx=4, input_data=-3 3, output_data=0, is_sample=True, description=
+[DEBUG] 2026-10-29 20:48:49,261 views | Test case idx=4, truncated_input_length=4, truncated_output_length=1
+[DEBUG] 2026-10-29 20:48:49,264 views | Test case idx=5, input_data=0 0, output_data=0, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,265 views | Test case idx=5, truncated_input_length=3, truncated_output_length=1
+[DEBUG] 2026-10-29 20:48:49,270 views | Test case idx=6, input_data=1000000000 1000000000, output_data=2000000000, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,271 views | Test case idx=6, truncated_input_length=21, truncated_output_length=10
+[DEBUG] 2026-10-29 20:48:49,281 views | Test case idx=7, input_data=-1000000000 -1000000000, output_data=-2000000000, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,281 views | Test case idx=7, truncated_input_length=23, truncated_output_length=11
+[DEBUG] 2026-10-29 20:48:49,284 views | Test case idx=8, input_data=-1000000000 1000000000, output_data=0, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,285 views | Test case idx=8, truncated_input_length=22, truncated_output_length=1
+[DEBUG] 2026-10-29 20:48:49,288 views | Test case idx=9, input_data=123456789 987654321, output_data=1111111110, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,288 views | Test case idx=9, truncated_input_length=19, truncated_output_length=10
+[DEBUG] 2026-10-29 20:48:49,292 views | Test case idx=10, input_data=42 -100, output_data=-58, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,292 views | Test case idx=10, truncated_input_length=7, truncated_output_length=3
+[DEBUG] 2026-10-29 20:48:49,300 views | Test case idx=11, input_data=999999999 1, output_data=1000000000, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,301 views | Test case idx=11, truncated_input_length=11, truncated_output_length=10
+[DEBUG] 2026-10-29 20:48:49,306 views | Test case idx=12, input_data=500000000 500000001, output_data=1000000001, is_sample=False, description=
+[DEBUG] 2026-10-29 20:48:49,306 views | Test case idx=12, truncated_input_length=19, truncated_output_length=10
+[INFO] 2026-10-29 20:48:49,330 views | Exiting index view
